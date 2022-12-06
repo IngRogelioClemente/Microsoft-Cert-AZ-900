@@ -33,17 +33,17 @@ else:
 ```
 ---
 ## Creación de un recurso de Aprendizaje automático
-![imagen](Images\3-1.png)
-![imagen](Images\3-2.png)
-![imagen](Images\3-3.png)
+![imagen](3-1.png)
+![imagen](3-2.png)
+![imagen](3-3.png)
 ## Creación de un experimento
-![imagen](Images\3-4.png)
-![imagen](Images\3-5.png)
-![imagen](Images\3-6.png)
-![imagen](Images\3-7.png)
-![imagen](Images\3-8.png)
+![imagen](3-4.png)
+![imagen](3-5.png)
+![imagen](3-6.png)
+![imagen](3-7.png)
+![imagen](3-8.png)
 ## Creación de un modelo con Machine Learning Designer
-![imagen](Images\3-9.png)
-![imagen](Images\3-10.png)
+![imagen](3-9.png)
+![imagen](3-10.png)
 
 ---

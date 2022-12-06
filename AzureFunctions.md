@@ -1,12 +1,12 @@
 # Azure Functions
 
 1. Crear un grupo de recursos para Azure Functions.
-![screenshot](Images\ss6.png)
+![screenshot](ss6.png)
 2. Al generar un recurso Functions hay que dirigirse a la ventana de funciones y crear una función para lo que se desea ejecutar.
-![screenshot](Images\ss7.png)
+![screenshot](ss7.png)
 3. En este caso se realizó una función para hacer una conección API mediante scripts en JSON y proceder a realizar las pruebas.
-![screenshot](Images\ss9.png)
-![screenshot](Images\ss10.png)
+![screenshot](ss9.png)
+![screenshot](ss10.png)
 
 Resultado:
 -

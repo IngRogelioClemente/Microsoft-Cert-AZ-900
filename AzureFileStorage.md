@@ -2,11 +2,11 @@
 Implementación de los servicios de Azure File Storage
 
 - EL primer paso es ir a la sección de recursos compartidos de archivos y crear un recurso.
-![ss](Images\I12.png)
+![ss](I12.png)
 - Después importaremos un archivo cualquiera y daremos clic en conectar lo cual nos generara un grupo de comandos.
-![ss](Images\I22.png)
+![ss](I22.png)
 - Este grupo de comandos lo copiamos y pegamos en el Power Shell de Windows generandonos así el uso compartido de archivos con Azure.
-![ss](Images\I32.png)
+![ss](I32.png)
 
 ---
 Autor: Rogelio Clemente Balderas

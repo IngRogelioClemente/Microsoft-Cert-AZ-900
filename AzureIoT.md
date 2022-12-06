@@ -12,15 +12,15 @@
 * En Windows debes [poner la variable de entorno](https://bertofern.wordpress.com/2019/01/08/solucion-node-js-npm-no-reconocido-como-comando-interno-o-externo/)
 
 ## Creación de IoT Hub con Azure CLI
-![screenshot](Images\3-2-1.png)
-![screenshot](Images\3-2-2.png)
+![screenshot](3-2-1.png)
+![screenshot](3-2-2.png)
 ## Adjuntamos un sensor de temperatura simulado y agregamos la Raspberry Pi Simulada
-![screenshot](Images\3-2-3.png)
-![screenshot](Images\3-2-4.png)
+![screenshot](3-2-3.png)
+![screenshot](3-2-4.png)
 ## Visualización de los datos de RaspBerry Pi en web
-![screenshot](Images\3-2-5.png)
-![screenshot](Images\3-2-6.png)
-![screenshot](Images\3-2-7.png)
-![screenshot](Images\3-2-8.png)
+![screenshot](3-2-5.png)
+![screenshot](3-2-6.png)
+![screenshot](3-2-7.png)
+![screenshot](3-2-8.png)
 
 #

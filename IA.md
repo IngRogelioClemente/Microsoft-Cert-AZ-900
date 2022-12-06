@@ -22,7 +22,7 @@ Resultado:
 -
 Palabra para la IA: "Bitcoin"
 
-![imagen](Images\IAword.png)
+![imagen](IAword.png)
 
 *Parte 2*
 -
@@ -46,7 +46,7 @@ Resultado:
 -
 Personaje: "Hatsune Miku"
 
-![imagen](Images\IAcharacter.jpeg)
+![imagen](IAcharacter.jpeg)
 
 #
 Autor: Rogelio Clemente Balderas
